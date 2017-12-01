@@ -62,3 +62,30 @@ Open another command prompt and run:
 node testcase1.js
 
 
+
+ 
+ 
+//////////////////////////////////////// 
+	 
+Selenium Video Tutorials: 
+
+https://www.youtube.com/watch?v=bFFcbB0AJDM 
+
+https://www.youtube.com/watch?v=-DrCWCjTKBk 
+
+Selenium for Node: https://www.youtube.com/watch?v=YlS9saA3A5U 
+	 
+	 
+Selenium Tutorials: 
+
+http://toolsqa.com/selenium-tutorial/ 
+
+http://www.seleniumhq.org/download/ 
+
+https://www.npmjs.com/package/selenium-webdriver	 
+
+http://www.software-testing-tutorials-automation.com/p/learn-selenium-ide.html 
+
+https://github.com/dineshmetkari/CucumberSeleniumTestExample.git 
+
+
